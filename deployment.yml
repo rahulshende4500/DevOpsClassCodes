@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: c1
-          image: 7720001490/myrepo:tomcatapp3
+          image: 7720001490/myrepo:tomcatapp2
           ports:
             - containerPort: 8080
           env:
